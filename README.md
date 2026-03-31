@@ -16,8 +16,8 @@
 
 Дополнительные материалы, которые могут быть полезны для выполнения задания
 Руководство по оформлению Markdown файлов
-Задание 1
+**Задание 1**
 <img width="1531" height="558" alt="Screenshot 2026-03-31 at 20 04 49" src="https://github.com/user-attachments/assets/3f99cafc-f41f-421a-b98a-9641205f6a3c" />
-Скриншот 1
+Items
 <img width="1505" height="583" alt="Screenshot 2026-03-31 at 20 22 25" src="https://github.com/user-attachments/assets/515a6002-84f7-4427-aea1-3af4a4aca95a" />
-Скриншот 2
+Latest data
