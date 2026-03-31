@@ -19,18 +19,16 @@
 **Задание 1**
 
 <img width="1531" height="558" alt="Screenshot 2026-03-31 at 20 04 49" src="https://github.com/user-attachments/assets/3f99cafc-f41f-421a-b98a-9641205f6a3c" />
-Items
+Задание 1
 <img width="1505" height="583" alt="Screenshot 2026-03-31 at 20 22 25" src="https://github.com/user-attachments/assets/515a6002-84f7-4427-aea1-3af4a4aca95a" />
-Latest data
-
+Задание 1
 
 
 **Задание 2-3**
-
-<img width="1605" height="607" alt="Screenshot 2026-03-31 at 20 47 04" src="https://github.com/user-attachments/assets/b25e03e0-0803-4613-9f47-5123fed5b82c" />
-Hosts
+<img width="1537" height="483" alt="Screenshot 2026-03-31 at 22 36 01" src="https://github.com/user-attachments/assets/b6cfc627-c3b0-4307-b0e6-4767a040e33e" />
+Задание 2-3
 
 
 **Задание 4**
 <img width="1634" height="909" alt="Screenshot 2026-03-31 at 20 56 12" src="https://github.com/user-attachments/assets/492b1fe0-0c00-4cf7-b2fb-4c8fe5c863f6" />
-Custom dashboard
+Задание 4
