@@ -30,5 +30,5 @@
 
 
 **Задание 4**
-<img width="1634" height="909" alt="Screenshot 2026-03-31 at 20 56 12" src="https://github.com/user-attachments/assets/492b1fe0-0c00-4cf7-b2fb-4c8fe5c863f6" />
+<img width="1544" height="849" alt="Screenshot 2026-04-01 at 09 43 33" src="https://github.com/user-attachments/assets/d1ba0275-f082-4387-8cff-ffebb87d41ec" />
 Задание 4
